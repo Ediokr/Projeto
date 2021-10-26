@@ -3,3 +3,19 @@ HTML + CSS + JavaScript
 
 Back-End
 Node.JS + Express ou Axios (Transmitir dados via Web) application framework
+Ao trabalhar com frameworks reativos do lado Front-end, constumase desenvolver Apis 
+para comunicação com Back-end. 
+
+Saber criar APIs, realizar autenticação usando OAuth2, JWT.
+
+Quando falamos em APIs existem varias tecnologias atreladas que
+devem ser estudadas REST, SOAP, JSON, XML, GRAPHQL.
+
+Ambiente Deploy (DEVops) Continuos Delivey e Continuos Intergration.
+
+Containers (Docker)
+##############################################################
+Ferramentas para desenvolver via WEB
+stackblitz, codeanywhere e codepen
+
+ 
