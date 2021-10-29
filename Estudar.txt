@@ -18,4 +18,10 @@ Containers (Docker)
 Ferramentas para desenvolver via WEB
 stackblitz, codeanywhere e codepen
 
+Estudar Postman, nest.js.
+
+Postman: O Postman é um API Client que facilita aos desenvolvedores 
+criar, compartilhar, testar e documentar APIs. Isso é feito, 
+permitindo aos usuários criar e salvar solicitações HTTP e
+HTTPs simples e complexas, bem como ler suas respostas
  
